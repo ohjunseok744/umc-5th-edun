@@ -1,0 +1,16 @@
+<application>
+  <component name="SingleStripeButtonsState">
+    <id>Database</id>
+    <id>Project</id>
+    <id>Services</id>
+  </component>
+  <component name="WindowManager">
+    <frame x="85" y="25" width="1750" height="980" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="768" y="383" width="800" height="650" key="WELCOME_SCREEN" timestamp="1698718384680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="768" y="383" width="800" height="650" key="WELCOME_SCREEN/0.0.1536.824" timestamp="1698718384680" />
+  </component>
+</application>
